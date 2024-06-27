@@ -1,0 +1,10 @@
+.BigButton{
+    width: 350px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: rgb(67, 67, 228);
+    border: none;
+    display: block;
+    color: whitesmoke;
+    font-size: 18px;
+}

@@ -1,0 +1,32 @@
+.LoginForm{
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.InputPlace{
+    width: 350px;
+    margin-top: 15px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.Other{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.ButtonPlace {
+    margin-top: 15px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}

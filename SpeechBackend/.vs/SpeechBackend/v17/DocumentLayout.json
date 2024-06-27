@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Diploma\\SpeechBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|C:\\Projects\\Diploma\\SpeechBackend\\services\\realizations\\pointsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|solutionrelative:services\\realizations\\pointsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|C:\\Projects\\Diploma\\SpeechBackend\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|solutionrelative:services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|c:\\projects\\diploma\\speechbackend\\configs\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|solutionrelative:configs\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|c:\\projects\\diploma\\speechbackend\\entities\\points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|solutionrelative:entities\\points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|C:\\Projects\\Diploma\\SpeechBackend\\dto\\points\\readpointsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|solutionrelative:dto\\points\\readpointsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|C:\\Projects\\Diploma\\SpeechBackend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|C:\\Projects\\Diploma\\SpeechBackend\\dto\\points\\createpointsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|solutionrelative:dto\\points\\createpointsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|C:\\Projects\\Diploma\\SpeechBackend\\services\\realizations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|solutionrelative:services\\realizations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|C:\\Projects\\Diploma\\SpeechBackend\\controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|solutionrelative:controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|C:\\Projects\\Diploma\\SpeechBackend\\dto\\users\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|solutionrelative:dto\\users\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|C:\\Projects\\Diploma\\SpeechBackend\\dto\\users\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|solutionrelative:dto\\users\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|C:\\Projects\\Diploma\\SpeechBackend\\configs\\fluent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA9110-6C1B-47A0-B0A6-7F68836D8102}|SpeechBackend.csproj|solutionrelative:configs\\fluent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Points.cs",
+              "DocumentMoniker": "C:\\Projects\\Diploma\\SpeechBackend\\Entities\\Points.cs",
+              "RelativeDocumentMoniker": "Entities\\Points.cs",
+              "ToolTip": "C:\\Projects\\Diploma\\SpeechBackend\\Entities\\Points.cs",
+              "RelativeToolTip": "Entities\\Points.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:41:51.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadPointsDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Diploma\\SpeechBackend\\DTO\\Points\\ReadPointsDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Points\\ReadPointsDto.cs",
+              "ToolTip": "C:\\Projects\\Diploma\\SpeechBackend\\DTO\\Points\\ReadPointsDto.cs",
+              "RelativeToolTip": "DTO\\Points\\ReadPointsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:57:36.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Projects\\Diploma\\SpeechBackend\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "Services\\BaseService.cs",
+              "ToolTip": "C:\\Projects\\Diploma\\SpeechBackend\\Services\\BaseService.cs",
+              "RelativeToolTip": "Services\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:46:17.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointsService.cs",
+              "DocumentMoniker": "C:\\Projects\\Diploma\\SpeechBackend\\Services\\Realizations\\PointsService.cs",
+              "RelativeDocumentMoniker": "Services\\Realizations\\PointsService.cs",
+              "ToolTip": "C:\\Projects\\Diploma\\SpeechBackend\\Services\\Realizations\\PointsService.cs",
+              "RelativeToolTip": "Services\\Realizations\\PointsService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:46:15.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Projects\\Diploma\\SpeechBackend\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Projects\\Diploma\\SpeechBackend\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:00:57.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Projects\\Diploma\\SpeechBackend\\Services\\Realizations\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Realizations\\UserService.cs",
+              "ToolTip": "C:\\Projects\\Diploma\\SpeechBackend\\Services\\Realizations\\UserService.cs",
+              "RelativeToolTip": "Services\\Realizations\\UserService.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowGIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:44:07.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PointController.cs",
+              "DocumentMoniker": "C:\\Projects\\Diploma\\SpeechBackend\\Controllers\\PointController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PointController.cs",
+              "ToolTip": "C:\\Projects\\Diploma\\SpeechBackend\\Controllers\\PointController.cs",
+              "RelativeToolTip": "Controllers\\PointController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:09:07.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Projects\\Diploma\\SpeechBackend\\DTO\\Users\\SignUp.cs",
+              "RelativeDocumentMoniker": "DTO\\Users\\SignUp.cs",
+              "ToolTip": "C:\\Projects\\Diploma\\SpeechBackend\\DTO\\Users\\SignUp.cs",
+              "RelativeToolTip": "DTO\\Users\\SignUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:07:59.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "C:\\Projects\\Diploma\\SpeechBackend\\DTO\\Users\\SignIn.cs",
+              "RelativeDocumentMoniker": "DTO\\Users\\SignIn.cs",
+              "ToolTip": "C:\\Projects\\Diploma\\SpeechBackend\\DTO\\Users\\SignIn.cs",
+              "RelativeToolTip": "DTO\\Users\\SignIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:07:58.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreatePointsDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Diploma\\SpeechBackend\\DTO\\Points\\CreatePointsDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Points\\CreatePointsDto.cs",
+              "ToolTip": "C:\\Projects\\Diploma\\SpeechBackend\\DTO\\Points\\CreatePointsDto.cs",
+              "RelativeToolTip": "DTO\\Points\\CreatePointsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:07:33.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Fluent.cs",
+              "DocumentMoniker": "C:\\Projects\\Diploma\\SpeechBackend\\Configs\\Fluent.cs",
+              "RelativeDocumentMoniker": "Configs\\Fluent.cs",
+              "ToolTip": "C:\\Projects\\Diploma\\SpeechBackend\\Configs\\Fluent.cs",
+              "RelativeToolTip": "Configs\\Fluent.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:05:45.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Projects\\Diploma\\SpeechBackend\\Configs\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "Configs\\AutoMapper.cs",
+              "ToolTip": "C:\\Projects\\Diploma\\SpeechBackend\\Configs\\AutoMapper.cs",
+              "RelativeToolTip": "Configs\\AutoMapper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:05:43.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

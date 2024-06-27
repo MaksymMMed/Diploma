@@ -1,0 +1,9 @@
+.BasicInput{
+    height: 40px;
+    width: 370px;
+    font-size: 18px;
+    background-color: #dae6e6;
+    border: none;
+    border-radius: 5px;
+    padding-left: 8px;
+}

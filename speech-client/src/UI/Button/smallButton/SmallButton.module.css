@@ -1,0 +1,9 @@
+.SmallButton{
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: rgb(67, 67, 228);
+    border: none;
+    color: whitesmoke;
+    font-size: 18px;
+}
